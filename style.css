@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 34px;
+    color: hsl(0, 34%, 52%);
+    text-align: center;
+    font-family: 'Courier New', serif;
+}
+
+li {
+    list-style: decimal;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+}
